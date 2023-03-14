@@ -1,0 +1,30 @@
+styles.css
+*{
+        padding: rgb(192, 10, 10);
+    margin: 0;
+}
+body{
+     background-color: rgb(49, 214, 16);
+
+}
+.about-1{
+    margin: 30px;
+    padding:5px;
+}
+.about-1 hi{
+    text-align: center;
+    colour:rgb(153, 194, 42);
+    font-weight: bold;
+}
+.about-1 p{
+    text-align: center;
+    padding: 3px;
+    color: #fff;
+}
+.abou-item{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: rgb(221, 5, 5);
+    padding: 80px,30px;
+    box-shadow: 0 0 9px; rgba(0,0,0 .6);
+}
