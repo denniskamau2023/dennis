@@ -1,10 +1,10 @@
 styles.css
 *{
-        padding: rgb(192, 10, 10);
+        padding: rgb(189, 18, 18);
     margin: 0;
 }
 body{
-     background-color: rgb(49, 214, 16);
+     background-color: rgb(224, 210, 15);
 
 }
 .about-1{
@@ -19,12 +19,12 @@ body{
 .about-1 p{
     text-align: center;
     padding: 3px;
-    color: #fff;
+    color: #e60c67;
 }
 .abou-item{
     margin-bottom: 20px;
     margin-top: 20px;
-    background-color: rgb(221, 5, 5);
+    background-color: rgb(19, 33, 224);
     padding: 80px,30px;
     box-shadow: 0 0 9px; rgba(0,0,0 .6);
 }
